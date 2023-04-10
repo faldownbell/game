@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1676619047 source:c:\users\pavlikovasy\desktop\КГ\exemp\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+	"../stb-master/stb_easy_font.h"
+
+1674436871 c:\users\pavlikovasy\desktop\КГ\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1674029753 c:\users\pavlikovasy\desktop\КГ\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1677459131 source:c:\users\pavlikovasy\desktop\КГ\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"../stb-master/stb_easy_font.h"
+
+1677459003 c:\users\pavlikovasy\desktop\КГ\exemp\menu.h
+
+1677464950 source:e:\Компьютерная графика\КГ\exemp\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+
+1674436871 e:\Компьютерная графика\КГ\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677459003 e:\Компьютерная графика\КГ\exemp\menu.h
+
+1677462425 source:e:\Компьютерная графика\КГ\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"../stb-master/stb_easy_font.h"
+
+1674029753 e:\Компьютерная графика\КГ\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1677463682 e:\Компьютерная графика\КГ\exemp\textur.h
+
+1677464988 source:e:\Компьютерная графика\КГ\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+
+1677465350 source:e:\Новая папка\Компьютерная графика\КГ\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+
+1677459003 e:\Новая папка\Компьютерная графика\КГ\exemp\menu.h
+
+1677463682 e:\Новая папка\Компьютерная графика\КГ\exemp\textur.h
+
+1677462425 source:e:\Новая папка\Компьютерная графика\КГ\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"../stb-master/stb_easy_font.h"
+
+1674029753 e:\Новая папка\Компьютерная графика\КГ\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1677464988 source:e:\Новая папка\Компьютерная графика\КГ\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+
+1674436871 e:\Новая папка\Компьютерная графика\КГ\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677465350 source:f:\Новая папка\Компьютерная графика\КГ\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+
+1677459003 f:\Новая папка\Компьютерная графика\КГ\exemp\menu.h
+
+1677463682 f:\Новая папка\Компьютерная графика\КГ\exemp\textur.h
+
+1677462425 source:f:\Новая папка\Компьютерная графика\КГ\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"../stb-master/stb_easy_font.h"
+
+1674029753 f:\Новая папка\Компьютерная графика\КГ\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1677464988 source:f:\Новая папка\Компьютерная графика\КГ\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+
+1674436871 f:\Новая папка\Компьютерная графика\КГ\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1679820674 source:c:\users\faldo\onedrive\Рабочий стол\2\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+
+1677459004 c:\users\faldo\onedrive\Рабочий стол\2\exemp\menu.h
+
+1678700402 c:\users\faldo\onedrive\Рабочий стол\2\exemp\textur.h
+
+1678658778 source:c:\users\faldo\onedrive\Рабочий стол\2\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"../stb-master/stb_easy_font.h"
+
+1674029754 c:\users\faldo\onedrive\Рабочий стол\2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1679821005 source:c:\users\faldo\onedrive\Рабочий стол\2\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+
+1674029754 c:\users\faldo\onedrive\Рабочий стол\2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1680531606 source:c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"../stb-master/stb_easy_font.h"
+
+1680215605 c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\menu.h
+
+1674029754 c:\users\faldo\onedrive\Рабочий стол\2-уебан\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1681111184 source:c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+	"main.h"
+
+1674029754 c:\users\faldo\onedrive\Рабочий стол\2-уебан\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681111610 source:c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+	"../stb-master/stb_image.h"
+
+1681110395 c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\textur.h
+
+1681111201 c:\users\faldo\onedrive\Рабочий стол\2-уебан\exemp\main.h
+
